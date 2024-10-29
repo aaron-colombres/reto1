@@ -3,3 +3,6 @@ Hola mundo 2
 Commit + add
 
 Nuevas funcionalidades
+Nuevos comnetarios
+Nuevas tareas
+Nuevas reglas
